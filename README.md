@@ -25,7 +25,7 @@ any other POMDP related packages can be found in juliaPOMDP.jl. You will also ne
 
 - Statistics
  
- -Plots
+-Plots
 
 It is recommended to run this code in a nteract/jupyter interactive notebook. Download nteract (https://nteract.io/) and follow instructions at https://juliaacademy.com/courses/intro-to-julia/lectures/16882463 to start nteract and julia. Make sure all packages are installed and copy code from NursingHomeModel.ipynb into the nteract notebook and run.
 
