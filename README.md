@@ -31,4 +31,4 @@ The code can be run in two ways:
 
 1. Run this code in a nteract/jupyter interactive notebook. Download nteract (https://nteract.io/) and follow instructions at https://juliaacademy.com/courses/intro-to-julia/lectures/16882463 to start nteract and julia. Make sure all packages are installed and copy code from NursingHomeModel.ipynb into the nteract notebook and run.
 
-2. Alternatively NursingHomeModel.jl is a julia script that can also be run.
+2. Alternatively NursingHomePOMDP_script.jl is a julia script that can be run in julia (1.5.2)
