@@ -23,7 +23,7 @@ any other POMDP related packages can be found in juliaPOMDP.jl. You will also ne
 
 -LinearAlgebra
 
-- Statistics
+-Statistics
  
 -Plots
 
