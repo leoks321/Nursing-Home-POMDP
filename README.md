@@ -1,5 +1,5 @@
 # Nursing-Home-POMDP
-implemented in https://github.com/JuliaPOMDP/POMDPs.jl
+implemented using https://github.com/JuliaPOMDP/POMDPs.jl
 The notebook was written in Julia (1.5.2) using the nteract (https://nteract.io/) notebook application.
 To run the code you will need to have some packages imported. All packages related to juliaPOMDP can be found at https://github.com/JuliaPOMDP/POMDPs.jl. You will need:
 
@@ -28,4 +28,6 @@ LinearAlgebra
  
  Plots
 
-It is recommended to run this code in a nteract/jupyter interactive notebook.
+It is recommended to run this code in a nteract/jupyter interactive notebook. Download nteract (https://nteract.io/) and follow instructions at https://juliaacademy.com/courses/intro-to-julia/lectures/16882463 to get start nteract and julia. Make sure all packages are installed and copy code from NursingHomeModel.ipynb into the nteract notebook and run.
+
+Alternatively NursingHomeModel.jl is a julia script that can also be run.
