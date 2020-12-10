@@ -27,3 +27,5 @@ LinearAlgebra
  Statistics
  
  Plots
+
+It is recommended to run this code in a nteract/jupyter interactive notebook.
