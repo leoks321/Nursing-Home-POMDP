@@ -1,6 +1,8 @@
 # Nursing-Home-POMDP
 Implemented using https://github.com/JuliaPOMDP/POMDPs.jl The notebook was written in Julia (1.5.2) using the nteract (https://nteract.io/) notebook application.
 
+Model design, implementation, and results are described in the "Model Design" pdf document. 
+
 To run the code you will need to have some packages imported. All packages related to juliaPOMDP, along with installation instructions/documentation, can be found at https://github.com/JuliaPOMDP/POMDPs.jl. You will need:
 
 -POMDPs
